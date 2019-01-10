@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+package main;
+
+
+message Response {
+
+    bool success = 1;
+    string msg = 2;
+    int32 key = 3;
+    int32 val = 4;
+
+}

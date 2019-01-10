@@ -1,0 +1,11 @@
+syntax="proto3";
+
+package main;
+
+message request {
+
+    int32 requestType = 1;
+    int32 key = 2;
+    int32 val = 3;
+
+}
