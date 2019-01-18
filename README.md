@@ -1,1 +1,1 @@
-# Distributed-Hash-Tables-Consistent-Hashing
+# Load Balancer which uses Consistent Hashing Algorithm
